@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+.vite/
+*.log
+
+# SQLite runtime files
+*.db-shm
+*.db-wal
